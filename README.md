@@ -20,6 +20,7 @@
     <li>一切美好的事物</li>
   </ol>
    <p>最後來玩個測驗吧:</p>
+   <p>如果你今天走回家時，看見路旁有1萬塊現金，你會...</p>
   <form action="https://img.onl/LqbEgI">
     <label for="裝作沒看到"><input id="indoor" type="radio" name="indoor-outdoor" value="indoor"> 1.裝作沒看到</label>
     <label for="送到警察局"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> 2.送到警察局</label>
@@ -27,7 +28,8 @@
     <label for="自己獨吞"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor">4.自己獨吞</label>    
     <br>
    
-    <input type="text" placeholder="ans" required>
+    <input type="text" placeholder="輸入答案" required>
     <button type="submit">Submit</button>
   </form>
+     <p>#最後你會發現按鈕沒用，但多按按鈕是不是很讚</p>
 </main>
