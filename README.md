@@ -19,7 +19,7 @@
     <li>方吉菇菇</li>
     <li>一切美好的事物</li>
   </ol>
-   <p>來玩個測驗吧</p>
+   <p>最後來玩個測驗吧:</p>
   <form action="https://img.onl/LqbEgI">
     <label for="裝作沒看到"><input id="indoor" type="radio" name="indoor-outdoor" value="indoor"> 1.裝作沒看到</label>
     <label for="送到警察局"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> 2.送到警察局</label>
