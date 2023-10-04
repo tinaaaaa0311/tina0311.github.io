@@ -2,9 +2,10 @@
 
 <h2>自我介紹</h2>
 <main>
+ 
   <p>Click here to view more <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img src="https://scontent.ftpe4-1.fna.fbcdn.net/v/t1.15752-9/384547588_329545699595053_3886768546528626272_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=FjK8h4O2PyUAX_ZAp6S&_nc_ht=scontent.ftpe4-1.fna&oh=03_AdTuiQEY1apGxjYQHAfKVPum5P_2iH206o68A1fSn1a2yQ&oe=6544D321" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/386888844_1043797726629558_1871722623662364909_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aee45a&_nc_ohc=lzjaHRxVRjIAX9UtT93&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT10ABJe-RQUqXXqq8sJfyuzGgsZSBNpLXk1dOY4cE73A&oe=654500DE" alt="A cute orange cat lying on its back."></a>
 
   <p>我的興趣:</p>
   <ul>
@@ -19,13 +20,15 @@
     <li>一切美好的事物</li>
   </ol>
   <form action="https://www.freecatphotoapp.com/submit-cat-photo">
-    <label for="indoor"><input id="indoor" type="radio" name="indoor-outdoor" value="indoor"> Indoor</label>
-    <label for="outdoor"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> Outdoor</label><br>
-    <label for="loving"><input id="loving" type="checkbox" name="personality" value="loving"> Loving</label>
-    <label for="lazy"><input id="lazy" type="checkbox" name="personality" value="lazy"> Lazy</label>
-    <label for="energetic"><input id="energetic" type="checkbox" name="personality" value="energetic"> Energetic</label><br>
+    <label for="裝作沒看到"><input id="indoor" type="radio" name="indoor-outdoor" value="indoor"> 1.裝作沒看到</label>
+    <label for="送到警察局"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> 2.送到警察局</label>
+<label for="在原地等主人"><input id="indoor" type="radio" name="indoor-outdoor" value="indoor"> 3.在原地等主人</label>
+    <label for="自己獨吞"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor">4.自己獨吞</label>    
+    <br>
+   
     <input type="text" placeholder="cat photo URL" required>
     <button type="submit">Submit</button>
   </form>
 </main>
+
 
