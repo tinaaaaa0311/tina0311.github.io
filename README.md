@@ -3,7 +3,7 @@
 <h2>自我介紹</h2>
 <main>
  
-  <p>Click here to view more <a href="#">cat photos</a>.</p>
+  <p>這是我啦</p>
 
   <a href="#"><img src="https://scontent.xx.fbcdn.net/v/t1.15752-9/386888844_1043797726629558_1871722623662364909_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aee45a&_nc_ohc=lzjaHRxVRjIAX9UtT93&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT10ABJe-RQUqXXqq8sJfyuzGgsZSBNpLXk1dOY4cE73A&oe=654500DE" alt="A cute orange cat lying on its back."></a>
 
@@ -19,15 +19,15 @@
     <li>方吉菇菇</li>
     <li>一切美好的事物</li>
   </ol>
-  <form action="https://www.freecatphotoapp.com/submit-cat-photo">
-    <label for="裝作沒看到"><input id="裝作沒看到" type="radio" name="ans" value="1"> 1.裝作沒看到</label>
-    <label for="送到警察局"><input id="送到警察局" type="radio" name="ans" value="2"> 2.送到警察局</label>
-<label for="在原地等主人"><input id="在原地等主人" type="radio" name="ans" value="3"> 3.在原地等主人</label>
-    <label for="自己獨吞"><input id="自己獨吞" type="radio" name="ans" value="4">4.自己獨吞</label>    
+   <p>來玩個測驗吧</p>
+  <form action="https://img.onl/LqbEgI">
+    <label for="裝作沒看到"><input id="indoor" type="radio" name="indoor-outdoor" value="indoor"> 1.裝作沒看到</label>
+    <label for="送到警察局"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor"> 2.送到警察局</label>
+<label for="在原地等主人"><input id="indoor" type="radio" name="indoor-outdoor" value="indoor"> 3.在原地等主人</label>
+    <label for="自己獨吞"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor">4.自己獨吞</label>    
     <br>
    
-    <input type="text" placeholder="輸入你的答案" required>
+    <input type="text" placeholder="ans" required>
     <button type="submit">Submit</button>
   </form>
 </main>
-
