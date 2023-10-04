@@ -4,7 +4,7 @@
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img src="https://cdn.freecodecamp.org/curriculum/cat-photo-app/relaxing-cat.jpg" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img src="https://scontent.ftpe4-1.fna.fbcdn.net/v/t1.15752-9/336618899_3254293564832282_4909187602755211115_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=dzxd4tL7aucAX8n91cg&_nc_ht=scontent.ftpe4-1.fna&oh=03_AdTJphbf1IPKLmduebYGjxVLFXHlvy1JMrp9lLasovZb3w&oe=6544D545" alt="A cute orange cat lying on its back."></a>
 
   <p>Things cats love:</p>
   <ul>
