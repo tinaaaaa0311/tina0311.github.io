@@ -4,7 +4,7 @@
 <main>
   <p>Click here to view more <a href="#">cat photos</a>.</p>
 
-  <a href="#"><img src="https://scontent.ftpe4-1.fna.fbcdn.net/v/t1.15752-9/336618899_3254293564832282_4909187602755211115_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=ae9488&_nc_ohc=dzxd4tL7aucAX8n91cg&_nc_ht=scontent.ftpe4-1.fna&oh=03_AdTJphbf1IPKLmduebYGjxVLFXHlvy1JMrp9lLasovZb3w&oe=6544D545" alt="A cute orange cat lying on its back."></a>
+  <a href="#"><img src="https://scontent.ftpe4-1.fna.fbcdn.net/v/t1.15752-9/384547588_329545699595053_3886768546528626272_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=ae9488&_nc_ohc=FjK8h4O2PyUAX_ZAp6S&_nc_ht=scontent.ftpe4-1.fna&oh=03_AdTuiQEY1apGxjYQHAfKVPum5P_2iH206o68A1fSn1a2yQ&oe=6544D321" alt="A cute orange cat lying on its back."></a>
 
   <p>Things cats love:</p>
   <ul>
