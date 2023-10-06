@@ -1,12 +1,12 @@
 # 歡迎來到老孫的網站!!!
 
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>自我介紹</title>
+   
     <style>
         body {
             background-color: pink; 
