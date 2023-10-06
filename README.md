@@ -1,7 +1,5 @@
 # 歡迎來到老孫的網站!!!
 
-
-
 <html lang="en">
 <head>
     <meta charset="UTF-8">
