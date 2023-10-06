@@ -21,6 +21,7 @@
     </style>
 </head>
 <body>
+    <h2>自我介紹</h2>
     <p>這是我啦</p>
 
   <a href="#"><img class="smaller-image" src="https://scontent.xx.fbcdn.net/v/t1.15752-9/386888844_1043797726629558_1871722623662364909_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=aee45a&_nc_ohc=lzjaHRxVRjIAX9UtT93&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AdT10ABJe-RQUqXXqq8sJfyuzGgsZSBNpLXk1dOY4cE73A&oe=654500DE" alt="meeee"></a>
@@ -50,13 +51,13 @@
     <button type="submit">Submit</button>
   </form>
 
-</main>
+
 
 
 </body>
 </html>
 
-<h2>自我介紹</h2>
-<main>
+
+
  
   
