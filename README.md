@@ -6,16 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    
     <style>
+    /*網頁顏色*/
         body {
             background-color: pink; 
         }
 
-        /* 其他 CSS 样式 */
+        /*圖片大小*/
         .smaller-image {
-            width: 200px;
+            width: 300px;
         }
 
-        /* 其他样式... */
     </style>
 </head>
 <body>
