@@ -46,8 +46,8 @@
     <label for="自己獨吞"><input id="outdoor" type="radio" name="indoor-outdoor" value="outdoor">4.自己獨吞</label>    
     <br>
    
-    <input type="text" placeholder="ans" required>
-    <button type="submit">Submit</button>
+    <input type="text" placeholder="為什麼" required>
+    <button type="查看答案">Submit</button>
   </form>
 
 
