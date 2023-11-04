@@ -1,6 +1,6 @@
 # 歡迎來到老孫的網站!!!
 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -32,7 +32,7 @@
     <li>逛美術館、博物館、展覽</li>
     <li>跟大家聊天，妥妥的ENFP</li>
   </ul>
- <!DOCTYPE html>
+
 <html>
 <head>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -89,11 +89,6 @@
 </html>
 
 
-<main>
- 
-  
-</body>
-</html>
 
 
 
