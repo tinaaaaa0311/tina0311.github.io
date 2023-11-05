@@ -39,7 +39,7 @@
 </head>
 <body>
     <button id="myButton">查看更多興趣相關</button>
-    <p id="myParagraph">这是一个段落</p>
+    <p id="myParagraph">雙擊上方按鈕查看興趣</p>
 
     <script>
         // 使用jQuery选择器选中元素并添加点击事件处理程序
